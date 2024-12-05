@@ -30,7 +30,7 @@ function Footer() {
             </div>
 
             <div className="footer_hrt">
-                <h3>Made with <span role="img" aria-label="necro"></span> by <a href='https://github.com/raunak06r' target="_blank" rel="noopener noreferrer">Raunak Singh</a></h3>
+                <h3>Developed By <span role="img" aria-label="necro"></span> by <a href='https://github.com/raunak06r' target="_blank" rel="noopener noreferrer">Raunak Singh</a></h3>
             </div>
             
 
