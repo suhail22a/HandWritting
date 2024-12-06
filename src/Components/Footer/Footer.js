@@ -14,7 +14,7 @@ function Footer() {
                 <p>
                     <b>HandWritting</b> is a project made with React JS 
                     For any suggestions or bug reports, visit 
-                    <a href='https://github.com/raunak06r/HandWritting' target="_blank" rel="noopener noreferrer">
+                    <a href='https://github.com/suhail22a/HandWritting' target="_blank" rel="noopener noreferrer">
                         <Tooltip title="Visit Github Repo" placement="bottom" TransitionComponent={Zoom}>
                             <GitHubIcon />
                         </Tooltip> 
@@ -30,7 +30,7 @@ function Footer() {
             </div>
 
             <div className="footer_hrt">
-                <h3>Developed By <span role="img" aria-label="necro"></span> by <a href='https://github.com/raunak06r' target="_blank" rel="noopener noreferrer">Raunak Singh</a></h3>
+                <h3>Developed By <span role="img" aria-label="necro"></span> <a href='https://github.com/suhail22a' target="_blank" rel="noopener noreferrer">Suhail Ahmad</a></h3>
             </div>
             
 
